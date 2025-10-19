@@ -1,7 +1,7 @@
 // Gemini API設定ファイル
 // 注意: このファイルはGitHubにプッシュしないでください！
 
-export const GEMINI_API_KEY = "AIzaSyD34CBmQyugEuvPpeXDl8dv3_mEtXzmUMo";
+export const GEMINI_API_KEY = " GEMINI_API_KEY";
 
 // 使用方法:
 // 1. Google AI Studio (https://makersuite.google.com/app/apikey) でAPIキーを取得
