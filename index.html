@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>書籍検索アプリ</title>
+    <!-- jQuery読み込み -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <!-- axios読み込み -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- CSS読み込み -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header>
+    <>書籍検索アプリ</
+        h1>
+</header>
+<main>
+    <div id="chat-area">
+        <div class="message ai">
+            🤖 こんにちは！気になる書籍のタイトル、キーワードを入れて下さい!
+        </div>
+        <div id="response"></div>
+        <div id="ai-response"></div>
+        
+    </div>
+    <textarea
+        id="user-input"
+        placeholder="書類タイトルを入力..."
+    ></textarea>
+    <ul>
+        <li id="send">送信</li>
+        <li id="clear">クリア</li>
+    </ul>
+</main>
+
+<script type="module" src="js/script.js"></script>
+</body>
+</html>
