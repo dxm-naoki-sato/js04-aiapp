@@ -5,7 +5,7 @@
 - AIを活用したアプリです
 
 ## ③アプリのデプロイURL
--https://github.com/dxm-naoki-sato/js04-aiapp.git
+-https://dxm-naoki-sato.github.io/js04-aiapp/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
